@@ -1,6 +1,6 @@
-# Discord Clone
+# ConverseHub
 
-Welcome to the Discord Clone project! This is a fully functional Discord clone that aims to replicate the core features of the popular communication platform, Discord. Whether you're a developer looking to contribute, or a user interested in trying out the clone, we're excited to have you on board!
+Welcome to the ConverseHub project! This is a fully functional social platform that aims to replicate the core features of the popular communication platform, Discord. Whether you're a developer looking to contribute, or a user interested in trying out the clone, we're excited to have you on board!
 
 ## Table of Contents
 
@@ -35,13 +35,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vishal32004/Discord-clone.git
+   git clone https://github.com/vishal32004/ConverseHub.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd discord-clone
+   cd ConverseHub
    ```
 
 3. Install dependencies:
