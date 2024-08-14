@@ -7,7 +7,7 @@ const f = createUploadthing();
 
 const authMiddleware = (opts: { req: NextRequest }) => {
   try {
-    const userId = getDataFromToken(opts.req);
+    const userId = getDataFromToken();
     if (!userId) throw new Error("Unauthorized");
     return { userId: userId };
   } catch (error) {
