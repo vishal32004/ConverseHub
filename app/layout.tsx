@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils";
 import { ModalProvider } from "@/components/providers/modal-provider";
 import { SocketProvider } from "@/components/providers/SocketProvider";
 import { QueryProvider } from "@/components/providers/QueryProvider";
-
+ export const dynamic = 'force-dynamic'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
